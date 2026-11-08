@@ -1,0 +1,13 @@
+body {
+    margin: 30px;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+}
+
+h2 {
+    background-color: red;
+    color: white;
+}
